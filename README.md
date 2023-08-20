@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Francis Alexander Panarto and I'm a Computer Science Student from Bina Nusantara University</h2>
+<h2 align="left">Hi 👋! My name is Francis and I'm a CS Student from Bina Nusantara University</h2>
 
 ###
 
