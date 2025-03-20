@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Computer Science @ Bina Nusantara University<br>✈️ Data Scientist at Traveloka<br>💻 Casually does Competitive Programming and Data Science Competitions<br>🤝 Eager to collaborate on Data Science projects<br>🍀 Believer in the saying: "The more prepared you are in life, the luckier you are going to get"<br>🥋 Fun fact: Holds a black belt in Taekwondo</p>
+<p align="left">🎓 Computer Science @ Bina Nusantara University<br>✈️ Data Scientist @ Traveloka<br>💻 Casually does Competitive Programming and Data Science Competitions<br>🤝 Eager to collaborate on Data Science projects<br>🍀 Believer in the saying: "The more prepared you are in life, the luckier you are going to get"<br>🥋 Fun fact: Holds a black belt in Taekwondo</p>
 
 ###
 
